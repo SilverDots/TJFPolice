@@ -3,4 +3,5 @@
 Team members:
 Richard Tran,Matthew Jack,Skyyler Fine
 
-The files in the [public](/public) directory are deployed to: https://cse442.pages.cs.washington.edu/23au/final-project/TJFPolice/
+# What is TJFPolice?
+TJFPolice is an interactive web article which examines potential factors in the change in SPD response times in recent years. Data visualizations were created using the Javascript Vegalite library, and the web page was styled using Bootstrap.
